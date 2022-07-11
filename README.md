@@ -21,6 +21,7 @@ TOKEN: Bearer xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ### Run
 - clone the repo
 - install requirements `pip install -r requirements.txt`
+- You will also need ffmpeg installed and in your path
 - run `python main.py`
 - This will ask you for a url, and will save the video file as mp4.
 
